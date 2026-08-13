@@ -4,7 +4,7 @@ A personal portfolio website built with **React, Vite, and Tailwind CSS** to sho
 
 The design and initial structure of this portfolio were based on the [react-tailwind-personal-portfolio](https://github.com/machadop1407/react-tailwind-personal-portfolio) repository by **machadop1407**. I customized and expanded the project with my own content, styling, animations, projects, and other changes.
 
-Visit https://santiago-personal-porfolio-v1.vercel.app/
+Visit https://personal-porfolio-v1.vercel.app/ for a live demo.
 
 ## ✨ Features
 
