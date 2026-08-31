@@ -38,7 +38,17 @@ const projects = [
     tags: ["ESP8266", "IoT", "MQ Sensors", "Firebase", "Arduino", "Geofence"],
     link: "#",
     github: "#"
-}
+    },
+    {
+    title: "File Sorter",
+    description:
+        "A Python-based desktop file management tool with a CustomTkinter interface that automatically scans, categorizes, and organizes files into structured folders, simplifying the process of managing large collections of files.",
+    image: "/projects/project5.webp",
+    tags: ["Python", "CustomTkinter", "Automation", "File Management"],
+    link: "#",
+    github: "#"
+},
+
 ];
 // 4 in a row, when 1 is hovered the others shrink and the chosen gets wider
 export const Projects = () => {
@@ -94,8 +104,9 @@ export const Projects = () => {
                             <div className="
                                 absolute inset-0
                                 bg-gradient-to-t
-                                from-card via-card/50 to-transparent
-                                opacity-80
+                                from-black/90
+                                via-black/50
+                                to-transparent
                             " />
 
                             {/* Content */}
