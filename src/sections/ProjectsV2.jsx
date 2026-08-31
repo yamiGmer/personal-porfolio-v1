@@ -7,7 +7,7 @@ const projects = [
         title: "GeoTrace",
         description:
             "A payroll and attendance management system with geofencing, photo verification, automated payroll processing, and Firebase integration.",
-        image: "/projects/project1.png",
+        image: "/projects/project1.webp",
         tags: ["Laravel", "MySQL", "Firebase", "Tailwind CSS", "Payroll", ],
         link: "#",
         github: "#"
@@ -16,7 +16,7 @@ const projects = [
         title: "Tara4a",
         description:
             "A tourism platform for discovering DOT-accredited establishments, featuring interactive maps, geofencing, itinerary planning, and an administrative dashboard.",
-        image: "/projects/project2.png",
+        image: "/projects/project2.webp",
         tags: ["MERN", "React", "Node.js", "MongoDB", "Google Maps API"],
         link: "#",
         github: "#"
@@ -25,7 +25,7 @@ const projects = [
         title: "AI Desktop Assistant",
         description:
             "A personal offline voice assistant built with Python featuring wake-word detection, speech recognition, text-to-speech, and local AI capabilities.",
-        image: "/projects/project3.png",
+        image: "/projects/project3.webp",
         tags: ["Python", "Whisper", "ONNX", "Piper", "Ollama"],
         link: "#",
         github: "#"
@@ -34,7 +34,7 @@ const projects = [
     title: "AirSentinel",
     description:
         "An IoT-based air quality monitoring system developed for a hackathon, using environmental sensors to collect and monitor air quality data in real time.",
-    image: "/projects/project4.jpg",
+    image: "/projects/project4.webp",
     tags: ["ESP8266", "IoT", "MQ Sensors", "Firebase", "Arduino", "Geofence"],
     link: "#",
     github: "#"
